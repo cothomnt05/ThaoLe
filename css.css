@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(235, 217, 194);
+  width: 100%;
+}
+
+
+.container{
+  background-color: aliceblue;
+  margin-top: 80px;
+}
+
+
+li input:checked {
+  cursor: pointer;
+  background-color: brown;
+}
